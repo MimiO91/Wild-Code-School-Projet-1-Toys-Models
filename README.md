@@ -1,4 +1,4 @@
-# 🧸 Toys Models - Analyse et Visualisation des Données
+# 🚘 Toys Models - Analyse et Visualisation des Données
 
 ## 📌 Présentation du Projet
 Ce projet vise à analyser et visualiser des données relatives aux modèles réduits. L'objectif est d'extraire des **informations pertinentes** et de les présenter sous forme de **tableaux de bord interactifs** avec **Power BI**.
